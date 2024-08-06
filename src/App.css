@@ -16,6 +16,12 @@ body {
   color: #ffffff;
 }
 
+.page{
+  max-width: 124vw;
+  margin: 0 auto;
+  height: 100vh;
+}
+
 .App {
   text-align: center;
   padding: 20px;
@@ -66,12 +72,9 @@ h2 {
 .icon{
   height: 30px;
   width: 30px;
+  
 }
-.fot{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+
 .link{
   display: flex;
   justify-content: center;
