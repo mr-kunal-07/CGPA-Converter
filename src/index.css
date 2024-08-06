@@ -41,9 +41,15 @@ body {
 }
 
 h1 {
-  font-size: 4vi;
+  font-size: 40px;
   line-height: 0.9;
+
+  @media (max-width: 600px){
+  font-size: 30px;
+  }
 }
+
+
 
 button {
   border-radius: 8px;
