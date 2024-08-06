@@ -1,6 +1,5 @@
-// src/App.jsx
 import React from 'react';
-import MarksToCGPAConverter from './MarksToCGPAConverter';
+import MarksToCGPAConverter from './components/MarksToCGPAConverter';
 import './App.css';
 
 const App = () => {
